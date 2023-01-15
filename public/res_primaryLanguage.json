@@ -89,37 +89,43 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "HK99 Realty LLC",
+        "title": "Real Estate Agent",
+        "years": "01.2017 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Listing and Buyer Agent"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Prepare Closing Statements",
+          "Prepare Leases",
+          "Prepare Contracts",
+          "Perform comparative market analysis"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Navy",
+        "title": "Petty Officer Third Class",
+        "years": "01.2002 - 01.2008",
         "mainTech": [
-          "Angular 7/8"
+          "Personnel Specialist"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Perform Travel Claims",
+          "Prepare Financial Reports",
+          "Maintain Accounts"
+        ]
+      },
+      {
+        "company": "US Navy",
+        "title": "Airman",
+        "years": "02.2002 - 01.2005",
+        "mainTech": [
+          "Airplane Maintenace"
+        ],
+        "technologies": [
+          "Preflight Inspection",
+          "Postflight Inspection",
+          "Turnaround Inspection"
         ]
       }
     ]
