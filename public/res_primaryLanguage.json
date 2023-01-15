@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "👋 Hi, Welcome to my website",
+      "description": "I'm Yen Xiong Yuan. I am a Software Developer :) I'm working with the front-end framework like React, and experience with JavaScript, HTML, CSS, GitHub, Git, Visual Studio Code, and Ubuntu. My current learning focus is JavaScript, the React framework and the MERN stack. Thank you for visiting my website💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,42 +11,24 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Odd Duck",
+        "startDate": "2022",
+        "description": "The Odd Duck Product Picker is a tool that lets people at work pick out different products they like. And it will keep track of what they picked and show it in a report at the end.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/odd-duck.png",
+          "images/portfolio/animal-shelter/odd-duck2.png"
         ],
-        "url": "",
+        "url": "https://yenxiongyuan.github.io/odd-duck/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,9 +37,35 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "CARY Fitness",
+        "startDate": "2022",
+        "description": "A website that makes a plan for you to lose weight, based on your answers to some questions about exercise. we will show you a picture of the plan too.",
+        "images": [
+          "images/portfolio/photography/CARY-Fitness.png",
+          "images/portfolio/photography/CARY-Fitness2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Future Project",
+        "startDate": "2023",
+        "description": "Creating a website that will be used in the future. To do this, I will use different tools such as html, css, react, bootstrap, javascript, and mangoDB.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -81,37 +89,43 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "HK99 Realty LLC",
+        "title": "Real Estate Agent",
+        "years": "01.2017 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Listing and Buyer Agent"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Prepare Closing Statements",
+          "Prepare Leases",
+          "Prepare Contracts",
+          "Perform comparative market analysis"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Navy",
+        "title": "Petty Officer Third Class",
+        "years": "01.2002 - 01.2008",
         "mainTech": [
-          "Angular 7/8"
+          "Personnel Specialist"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Perform Travel Claims",
+          "Prepare Financial Reports",
+          "Maintain Accounts"
+        ]
+      },
+      {
+        "company": "US Navy",
+        "title": "Airman",
+        "years": "02.2002 - 01.2005",
+        "mainTech": [
+          "Airplane Maintenace"
+        ],
+        "technologies": [
+          "Preflight Inspection",
+          "Postflight Inspection",
+          "Turnaround Inspection"
         ]
       }
     ]
